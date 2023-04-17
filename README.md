@@ -6,13 +6,28 @@ Its a product of 36 hours long Hackathon!
 
 ## Screenshots
 
+Home Screen
 ![Home screen](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/1.png)
+
+Level 1
 ![Level 1](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/2.png)
+
+Level 2 player taking damage
 ![Level 2 player taking damage](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/3.png)
+
+Level 2 zombie dying
 ![Level 2 zombie dying](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/4.png)
+
+Game won
 ![Game won](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/5.png)
+
+Game over level 2
 ![Game over level 2](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/6.png)
+
+Game over level 1
 ![Game over level 1](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/7.png)
+
+Player dying level 2
 ![Player dying level 2](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/8.png)
 
 
@@ -56,6 +71,20 @@ The setup is now finished. To run the game please use the command:
 ```bash
   python3 main.py
 ```
+## Game Controls
+- Level 1:- 
+  
+  -Use Left and Right arrow for movement.
+
+  -Use Spacebar to jump.
+  
+  -Use 't' to attack
+
+- Level 2:-
+  
+  -Use left mouse click to attack zombies.
+
+  -Use left mouse click on buttons to access them
 ## Technologies used
 
 - Tiled:-Tiled is a free and open source, easy to use, and      flexible level editor. Used for map and map objects creation.
