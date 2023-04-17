@@ -6,28 +6,36 @@ Its a product of 36 hours long Hackathon!
 
 ## Screenshots
 
-Home Screen
+__Home Screen__
+
 ![Home screen](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/1.png)
 
-Level 1
+__Level 1__
+
 ![Level 1](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/2.png)
 
-Level 2 player taking damage
+__Level 2 player taking damage__
+
 ![Level 2 player taking damage](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/3.png)
 
-Level 2 zombie dying
+__Level 2 zombie dying__
+
 ![Level 2 zombie dying](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/4.png)
 
-Game won
+__Game won__
+
 ![Game won](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/5.png)
 
-Game over level 2
+__Game over level 2__
+
 ![Game over level 2](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/6.png)
 
-Game over level 1
+__Game over level 1__
+
 ![Game over level 1](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/7.png)
 
-Player dying level 2
+__Player dying level 2__
+
 ![Player dying level 2](https://github.com/Abhi-git-ghpro/HackNite_backup/blob/main/screenshots_for_game/8.png)
 
 
@@ -72,6 +80,9 @@ The setup is now finished. To run the game please use the command:
   python3 main.py
 ```
 ## Game Controls
+
+- On the home screen, __please__ press "Enter" key to start a level.
+
 - Level 1:- 
   
   -Use Left and Right arrow for movement.
@@ -124,4 +135,11 @@ Many a times we ended up getting import related errors and file_not_found errors
   IMT2022554
 
 
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
