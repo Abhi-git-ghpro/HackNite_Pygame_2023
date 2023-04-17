@@ -1,7 +1,7 @@
 
 # Zombie Apocalypse  game
 
-This is a simple 2D game made using python's pygame module.
+This is a simple 2D story based game made using python's pygame module.
 Its a product of 36 hours long Hackathon!
 
 ## Screenshots
